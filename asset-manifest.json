@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HelloGreetingApp/static/css/main.8a2d5682.chunk.css",
+    "main.js": "/HelloGreetingApp/static/js/main.14a9ae0b.chunk.js",
+    "main.js.map": "/HelloGreetingApp/static/js/main.14a9ae0b.chunk.js.map",
+    "runtime-main.js": "/HelloGreetingApp/static/js/runtime-main.18b9ff8f.js",
+    "runtime-main.js.map": "/HelloGreetingApp/static/js/runtime-main.18b9ff8f.js.map",
+    "static/js/2.effcb247.chunk.js": "/HelloGreetingApp/static/js/2.effcb247.chunk.js",
+    "static/js/2.effcb247.chunk.js.map": "/HelloGreetingApp/static/js/2.effcb247.chunk.js.map",
+    "index.html": "/HelloGreetingApp/index.html",
+    "precache-manifest.542305bf7c8d09cf43a7cbcdbe1d8cbe.js": "/HelloGreetingApp/precache-manifest.542305bf7c8d09cf43a7cbcdbe1d8cbe.js",
+    "service-worker.js": "/HelloGreetingApp/service-worker.js",
+    "static/css/main.8a2d5682.chunk.css.map": "/HelloGreetingApp/static/css/main.8a2d5682.chunk.css.map",
+    "static/js/2.effcb247.chunk.js.LICENSE.txt": "/HelloGreetingApp/static/js/2.effcb247.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18b9ff8f.js",
+    "static/js/2.effcb247.chunk.js",
+    "static/css/main.8a2d5682.chunk.css",
+    "static/js/main.14a9ae0b.chunk.js"
+  ]
+}
